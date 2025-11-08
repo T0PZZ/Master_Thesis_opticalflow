@@ -11,17 +11,39 @@ The thesis presents a comparative analysis of traditional approaches to optical 
 
 
 ## Software 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/24420973?v=4" height="40" alt="PTLFlow logo"  />
+  <img width="12" />
 
-- pycharm proffesional,
-- python 3.13,
-- opencv 4.12.0-dev (compiled with cuda),
-- ptlflow,
-- pandas,
-- numpy, 
-- os, 
-- time, 
-- pynvml (nvidia api), 
-- psutil.
+ 
+
+</div> 
+
+
+- PyCharm Proffesional,
+- Python 3.13,
+- OpenCv 4.12.0-dev (compiled with cuda),
+- [PTLFlow](https://github.com/hmorimitsu/ptlflow),
+- Pandas,
+- Numpy, 
+- Os, 
+- Time, 
+- Pynvml (nvidia api), 
+- Psutil.
+
+  
 ## Hardware
 - RTX 2060 6 GB Gainward Phantom
 - Ryzen 7 5800x (watercooled)
