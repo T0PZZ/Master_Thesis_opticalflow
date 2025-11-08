@@ -83,5 +83,10 @@ Traditional methods were implemented using OpenCV (including contrib modules wit
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<div align=center>
+<img width="3570" height="2670" alt="image" src="https://github.com/user-attachments/assets/bc69b883-b8a8-4851-a5f9-f6c6eeec9ee3" />
+
+  <br> <br> <br> <br>
+
+<img width="3570" height="2670" alt="image" src="https://github.com/user-attachments/assets/f92c7ff4-66e9-4a82-af65-7e16eef90b10" /> 
 
